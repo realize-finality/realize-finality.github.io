@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body class="docs">
+
+<header class="site-header">
+  <nav class="nav">
+    <a class="site-title" href="/">{{ site.title }}</a>
+    <div class="nav-links">
+      <a href="/docs/">Docs</a>
+      <a href="/about">About</a>
+    </div>
+  </nav>
+</header>
+
+<div class="docs-layout">
+  <aside class="docs-sidebar">
+    <strong>Docs</strong>
+    <ul>
+      <li><a href="/docs/">Overview</a></li>
+      <li><a href="/docs/getting-started">Getting started</a></li>
+      <li><a href="/docs/architecture">Architecture</a></li>
+    </ul>
+  </aside>
+
+  <main class="docs-content">
+    {{ content }}
+  </main>
+</div>
+
+</body>
+</html>

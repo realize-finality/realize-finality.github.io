@@ -3,7 +3,7 @@ layout: base
 title: Home
 ---
 
-Welcome! You've arrived at **Oliver**'s ([who?](/names/)) site.
+Welcome! You've arrived at **Oliver**'s ([who?](/names)) site.
 
 I store writing, documentation, and working notes here.
 
@@ -21,4 +21,4 @@ I store writing, documentation, and working notes here.
 
 - [Test](/2026/02/27/test/)
 
-[All posts](/posts/)
+[All posts](/posts)

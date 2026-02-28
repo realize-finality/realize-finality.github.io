@@ -3,7 +3,7 @@ layout: page
 title: MultiCraft
 ---
 
-Silly little block game.
+Silly little block game. (Download [here](https://multicraft.world/downloads))
 
 I'm mainly active on FlatWorld (`MCSRVR03`), so I might see you around at some point.
 

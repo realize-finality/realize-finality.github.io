@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm **Oliver** ([who?](/names/)). I'm involved in a few different things, you may see me around sometimes.
+I'm **Oliver** ([who?](/names)). I'm involved in a few different things, you may see me around sometimes.
 
 I also enjoy programming.
 

@@ -7,6 +7,7 @@ Notes:
 * The height shown here is the [architectural height](https://store.ctbuh.org/PDF_Previews/Posters/Criteria_2010_Preview.pdf), which includes spires but does not include antennae, flag poles or technical equipment.
 * A (+) value indicates additional height to the tip of the building.
 * Only floors at or above ground level are counted, with floors below ground level being counted separately in the "B" number.
+* Only buildings with completed frames are shown, with interior progress being disregarded. For buildings under construction, see the [Tall Buildings in Progress](tall-incomplete) list.
 
 To request additions or corrections, [contact](/about/) via Discord or in-game mail.
 
@@ -96,6 +97,10 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 
 ## 75 - 100 m
 
+**The Blocky Haven Hotel**
+* Location: USA
+* Height: 95.0 m
+
 *Unnamed Black Tower*
 * Location: Belgrade, Serbia
 * Height: 90.0 m (15 floors)
@@ -169,6 +174,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Location: Miniville
 * Height: 67.0 m (8 floors)
 * *(Measured 28 February 2026)*
+
+**Empire State Building Movie Theater**
+* Location: USA
+* Height: 64.0 m (9 floors)
+* *(Measured 3 March 2026)*
 
 **Building 1.54/B3**
 * Location: Bigtopia City, Bigtopia

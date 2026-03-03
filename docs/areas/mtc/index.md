@@ -18,3 +18,7 @@ Username: `Oliver12`
 ## Resources
 
 → [Tall Buildings](resources/tall-buildings) ~ a list of buildings 50 blocks tall or higher.
+
+*Note: The characters and events depicted in the server and in this area are fictional. Any similarity to actual persons or incidents is coincidental.*
+
+*"Actual" refers to real life as it exists outside the community.*

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aionia Foreign Affairs
+title: Nations RP
 ---
 
 To come.

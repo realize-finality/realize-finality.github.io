@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aionia Foreign Affairs
+title: FW News
 ---
 
 To come.

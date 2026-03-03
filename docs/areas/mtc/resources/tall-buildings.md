@@ -100,13 +100,16 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 **The Blocky Haven Hotel**
 * Location: USA
 * Height: 95.0 m
+* *(Measured 3 March 2026)*
 
 *Unnamed Black Tower*
 * Location: Belgrade, Serbia
 * Height: 90.0 m (15 floors)
+* *(Measured 28 February 2026)*
 
 **Pumpkin Spawn**
 * Height: 90.0 m
+* *(Measured 28 February 2026)*
 
 **Building 1.49**
 * Location: Bigtopia City, Bigtopia

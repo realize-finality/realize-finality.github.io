@@ -13,7 +13,9 @@ This process is facilitated through the partially state-owned company Stariumi C
 
 ## Settlements
 
-### Verdia Central District
+Settlements are places for people to live, work, and carry out the functioning of the country.
+
+### Verdia Central District
 
 **Phase 1: Eternal Boulevard**
 

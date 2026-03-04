@@ -58,6 +58,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 
 ## 100 - 150 m
 
+**Starfleet Headquarters**
+* Location: Federation/Starfleet Space
+* Height: 142.0 m
+* *(Measured 4 March 2026)*
+
 **The Black Tower**
 * Location: Opilaland
 * Height: 138.4 m

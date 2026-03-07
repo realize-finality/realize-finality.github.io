@@ -198,6 +198,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Height: 63.0 m (13 floors)
 * *(Measured 28 February 2026)*
 
+*Unnamed Grey Concrete Tower*
+* Location: backtolife City
+* Height: 63.0 m (9 floors)
+* *(Measured 7 March 2026)*
+
 **Christmas Spawn**
 * Height: 60.0 m
 * *(Measured 28 February 2026)*
@@ -208,6 +213,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * *(Measured 28 February 2026)*
 
 ## 50 - 60 m
+
+*Unnamed White Glass Tower*
+* Location: backtolife City
+* Height: 59.0 m (9 floors)
+* *(Measured 7 March 2026)*
 
 *Unnamed Red Tower*
 * Location: Bigtopia City, Bigtopia
@@ -246,6 +256,17 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Location: Glixo's Villlage
 * Height: 54.0 m
 * *(Measured 28 February 2026)*
+
+*Unnamed Grey Concrete Tower*
+* Location: backtolife City
+* Height: 53.0 m
+* A road intersects the tower and there are trees on the roof.
+* *(Measured 7 March 2026)*
+
+*Unnamed Dark Grey Concrete Tower*
+* Location: backtolife City
+* Height: 51.0 m
+* *(Measured 7 March 2026)*
 
 **Building 1.52/B1**
 * Location: Bigtopia City, Bigtopia

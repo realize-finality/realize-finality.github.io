@@ -7,6 +7,11 @@ title: Tall Buildings in Progress
 
 The notes from the main list apply here, except that this contains buildings whose construction is ongoing or incomplete.
 
+*Unnamed White Concrete Tower*
+* Location: Kool City
+* Intended height: 305.0 m (28 floors)
+* *(Measured 7 March 2026)*
+
 **South Side Tower**
 * Location: USA
 * Intended height: 192.5 m (31 floors)

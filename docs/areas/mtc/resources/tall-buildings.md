@@ -107,6 +107,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Height: 95.0 m
 * *(Measured 3 March 2026)*
 
+**SHOUKI Skyscraper**
+* Location: Belgium
+* Height: 92.0 m (11 floors)
+* *(Measured 7 March 2026)*
+
 *Unnamed Black Tower*
 * Location: Belgrade, Serbia
 * Height: 90.0 m (15 floors)

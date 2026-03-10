@@ -37,13 +37,21 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 *Unnamed Blue Light Tower*
 * Location: Blue Mountain
 * Height: 179.0 m (25 floors)
+* 4th tallest building
 * *(Measured 28 February 2026)*
+
+**B.I.G Lisi Mall**
+* Location: Lisi Quarter, Tbilisi, Georgia
+* Tallest building in Georgia
+* 5th tallest building
+* Height: 177.0 m (34 floors)
 
 **Leonardo da Vinci Tower**
 * Location: Tbilisi, Georgia
 * Height: 153.0 m (30 floors)
-* 5th tallest building
-* Tallest building in Georgia
+* 2nd tallest building in Georgia (from 10 March 2026)
+* 5th tallest building (to 10 March 2026)
+* Tallest building in Georgia (to 10 March 2026)
 * *(Measured 28 February 2026)*
 
 **Tbilisi Tower 1**

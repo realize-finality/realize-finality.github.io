@@ -7,7 +7,7 @@ title: Tall Buildings in Progress
 
 The notes from the main list apply here, except that this contains buildings whose construction is ongoing or incomplete.
 
-*Unnamed White Concrete Tower*
+**Koolpartments and Suites Skyline**
 * Location: Kool City
 * Intended height: 305.0 m (28 floors)
 * *(Measured 7 March 2026)*

@@ -37,13 +37,21 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 *Unnamed Blue Light Tower*
 * Location: Blue Mountain
 * Height: 179.0 m (25 floors)
+* 4th tallest building
 * *(Measured 28 February 2026)*
+
+**B.I.G Lisi Mall**
+* Location: Lisi Quarter, Tbilisi, Georgia
+* Tallest building in Georgia
+* 5th tallest building
+* Height: 177.0 m (34 floors)
 
 **Leonardo da Vinci Tower**
 * Location: Tbilisi, Georgia
 * Height: 153.0 m (30 floors)
-* 5th tallest building
-* Tallest building in Georgia
+* 2nd tallest building in Georgia (from 10 March 2026)
+* 5th tallest building (to 10 March 2026)
+* Tallest building in Georgia (to 10 March 2026)
 * *(Measured 28 February 2026)*
 
 **Tbilisi Tower 1**
@@ -57,6 +65,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * *(Measured 28 February 2026)*
 
 ## 100 - 150 m
+
+**Starfleet Headquarters**
+* Location: Federation/Starfleet Space
+* Height: 142.0 m
+* *(Measured 4 March 2026)*
 
 **The Black Tower**
 * Location: Opilaland
@@ -100,13 +113,21 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 **The Blocky Haven Hotel**
 * Location: USA
 * Height: 95.0 m
+* *(Measured 3 March 2026)*
+
+**SHOUKI Skyscraper**
+* Location: Belgium
+* Height: 92.0 m (11 floors)
+* *(Measured 7 March 2026)*
 
 *Unnamed Black Tower*
 * Location: Belgrade, Serbia
 * Height: 90.0 m (15 floors)
+* *(Measured 28 February 2026)*
 
 **Pumpkin Spawn**
 * Height: 90.0 m
+* *(Measured 28 February 2026)*
 
 **Building 1.49**
 * Location: Bigtopia City, Bigtopia
@@ -190,6 +211,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Height: 63.0 m (13 floors)
 * *(Measured 28 February 2026)*
 
+*Unnamed Grey Concrete Tower*
+* Location: backtolife City
+* Height: 63.0 m (9 floors)
+* *(Measured 7 March 2026)*
+
 **Christmas Spawn**
 * Height: 60.0 m
 * *(Measured 28 February 2026)*
@@ -200,6 +226,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * *(Measured 28 February 2026)*
 
 ## 50 - 60 m
+
+*Unnamed White Glass Tower*
+* Location: backtolife City
+* Height: 59.0 m (9 floors)
+* *(Measured 7 March 2026)*
 
 *Unnamed Red Tower*
 * Location: Bigtopia City, Bigtopia
@@ -238,6 +269,17 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Location: Glixo's Villlage
 * Height: 54.0 m
 * *(Measured 28 February 2026)*
+
+*Unnamed Grey Concrete Tower*
+* Location: backtolife City
+* Height: 53.0 m
+* A road intersects the tower and there are trees on the roof.
+* *(Measured 7 March 2026)*
+
+*Unnamed Dark Grey Concrete Tower*
+* Location: backtolife City
+* Height: 51.0 m
+* *(Measured 7 March 2026)*
 
 **Building 1.52/B1**
 * Location: Bigtopia City, Bigtopia

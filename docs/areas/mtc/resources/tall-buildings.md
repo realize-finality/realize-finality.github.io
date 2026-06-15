@@ -13,23 +13,33 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 
 ## 200 m +
 
+**B.I.G HQ**
+* Location: Batumu, Georgia
+* Height: 1,404.0 m (281 floors)
+* **Tallest building**
+
+**Stariumi Tower**
+* Location: New City, Verdia, Aionia
+* Height: 427.0 m (67 floors)
+* 2nd tallest building
+
 **Laguna Heights**
 * Location: Blue Mountain
 * Height: 403.5 m (100 floors)
-* **Tallest building**
+* 3rd tallest building.
 * Residential building with apartments and a pool on the top floor.
 * *(Measured 28 February 2026)*
 
 **CoolGov Research Tower**
 * Location: Kool City
 * Height: 235.0 m (21 floors)
-* 2nd tallest building
+* 4th tallest building
 * Empty.
 * *(Measured 28 February 2026)*
 
 **Hogwarts**
 * Height: 220.0 m
-* 3rd tallest building
+* 5th tallest building
 * *(Measured 28 February 2026)*
 
 ## 150 - 200 m
@@ -37,21 +47,15 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 *Unnamed Blue Light Tower*
 * Location: Blue Mountain
 * Height: 179.0 m (25 floors)
-* 4th tallest building
 * *(Measured 28 February 2026)*
 
 **B.I.G Lisi Mall**
 * Location: Lisi Quarter, Tbilisi, Georgia
-* Tallest building in Georgia
-* 5th tallest building
 * Height: 177.0 m (34 floors)
 
 **Leonardo da Vinci Tower**
 * Location: Tbilisi, Georgia
 * Height: 153.0 m (30 floors)
-* 2nd tallest building in Georgia (from 10 March 2026)
-* 5th tallest building (to 10 March 2026)
-* Tallest building in Georgia (to 10 March 2026)
 * *(Measured 28 February 2026)*
 
 **Tbilisi Tower 1**
@@ -200,6 +204,11 @@ To request additions or corrections, [contact](/about/) via Discord or in-game m
 * Location: USA
 * Height: 64.0 m (9 floors)
 * *(Measured 3 March 2026)*
+
+**Rental Offices, 150 1st St**
+* Location: Mineland City, Western Mineland, Mineland
+* Height: 64.0 m (12 floors)
+* *(Measured 15 June 2026)*
 
 **Building 1.54/B3**
 * Location: Bigtopia City, Bigtopia
